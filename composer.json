@@ -1,0 +1,19 @@
+{
+    "name": "laravel/laravel-download",
+    "autoload": {
+        "psr-4": {
+            "Laravel\\LaravelDownload\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "IOj4z",
+            "email": "alexmarkov827@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.7",
+        "google/apiclient": "^2.15",
+        "predis/predis": "^2.2"
+    }
+}
